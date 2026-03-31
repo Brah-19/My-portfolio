@@ -34,7 +34,7 @@ export function HeroSection() {
               Emmanuel Opare
             </h1>
             <p className="text-primary font-bold text-lg md:text-xl tracking-wide uppercase mt-1">
-              Software Engineer
+              Software Developer
             </p>
           </div>
         </div>
