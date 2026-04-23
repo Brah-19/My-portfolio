@@ -9,12 +9,12 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'John Doe | Software Engineer',
+  title: 'Emmanuel Opare| Software Engineer',
   description: 'Software Engineer specializing in building exceptional digital experiences. Passionate about creating accessible, pixel-perfect user interfaces.',
   keywords: ['Software Engineer', 'Web Developer', 'React', 'TypeScript', 'Next.js', 'Frontend Developer'],
-  authors: [{ name: 'John Doe' }],
+  authors: [{ name: 'Emmanuel Opare' }],
   openGraph: {
-    title: 'John Doe | Software Engineer',
+    title: 'Emmanuel Opare | Software Engineer',
     description: 'Software Engineer specializing in building exceptional digital experiences.',
     type: 'website',
   },
