@@ -9,7 +9,7 @@ const experiences = [
     company: "Vandzilah Technology",
     companyUrl: "https://vandzilah.com",
     description:
-      "Designed and built scalable user interfaces for Hadi Finance's web platforms, improving navigation for 850+ informal retailers. Built optimized admin dashboard reducing data retrieval time by 50% and developed interactive loan application dashboard reducing processing time by 40%.",
+      "Designed and built scalable user interfaces for  web platforms, improving navigation for 850+ informal retailers. Built optimized admin dashboard reducing data retrieval time by 50% and developed interactive loan application dashboard reducing processing time by 40%.",
     tech: ["Next.js", "React", "Tailwind CSS", "TypeScript"],
   },
   {
@@ -22,7 +22,7 @@ const experiences = [
     tech: ["HTML", "CSS", "JavaScript", "Responsive Design"],
   },
   {
-    period: "May 2024 — August 2024",
+    period: "May 2023 — August 2023",
     role: "Database Design Intern",
     company: "Glof Company",
     companyUrl: "https://example.com",
