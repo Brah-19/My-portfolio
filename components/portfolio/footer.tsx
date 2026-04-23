@@ -41,7 +41,7 @@ export function Footer() {
               href="#"
               className="text-2xl font-bold text-foreground hover:text-primary transition-colors"
             >
-              JD
+              EM
             </a>
             <p className="mt-4 text-muted-foreground text-sm leading-relaxed">
               Software Engineer building accessible, pixel-perfect digital experiences for the web.
