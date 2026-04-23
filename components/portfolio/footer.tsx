@@ -5,17 +5,17 @@ import { Github, Linkedin, Twitter, Heart } from "lucide-react"
 const socialLinks = [
   {
     name: "GitHub",
-    href: "https://github.com",
+    href: "https://github.com/Brah-19",
     icon: Github,
   },
   {
     name: "LinkedIn",
-    href: "https://linkedin.com",
+    href: "https://www.linkedin.com/in/emmanuel-opare-717066285?",
     icon: Linkedin,
   },
   {
     name: "Twitter",
-    href: "https://twitter.com",
+    href: "https://x.com/oparexoxo?s=11",
     icon: Twitter,
   },
 ]
@@ -88,7 +88,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
           <p className="flex items-center gap-1">
-            © {currentYear} John Doe. Built with
+            © {currentYear} Emmanuel Opare. Built with
             <Heart size={14} className="text-red-500 fill-red-500" />
             using Next.js
           </p>
