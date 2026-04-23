@@ -11,7 +11,7 @@ const projects = [
     image: "/projects/noteeey.jpg",
     tech: ["Next.js", "Tailwind CSS", "TypeScript", "Firebase", "React Markdown"],
     github: "https://github.com/Brah-19",
-    live: "https://noteeey.com",
+    live: "https://noteeey.vercel.app/",
   },
   {
     title: "Support Hive",
@@ -29,16 +29,10 @@ const projects = [
     image: "/projects/seablue.jpg",
     tech: ["React", "Tailwind CSS", "JavaScript ES6+", "Vite", "Vercel"],
     github: "https://github.com/Brah-19",
-    live: "https://seabluerecipes.com",
+    live: "https://seabluerecipes.vercel.app/",
   },
   {
-    title: "Hadi Finance Admin Dashboard",
-    description:
-      "Built during internship at Vandzilah Technology. Optimized admin dashboard with data queuing from backend, reducing data retrieval time by 50% for managing 850+ informal retailers.",
-    image: "/projects/hadi.jpg",
-    tech: ["Next.js", "React", "Tailwind CSS", "TypeScript"],
-    github: "https://github.com/Brah-19",
-    live: "https://example.com",
+    
   },
 ]
 
